@@ -1,0 +1,335 @@
+[
+    {
+        "title": "Steins;Gate",
+        "author": "Chiyomaru Shikura",
+        "price": 34.99,
+        "genre": "Science Fiction",
+        "age_rating": "R",
+        "release_date": 2011,
+        "summary": " Rintarou Okabe, a self-proclaimed mad scientist, discovers a way to send messages to the past using a microwave. However, altering the past has consequences, leading Okabe and his friends to navigate a complex web of time travel and conspiracy to prevent a dystopian future."
+    },
+    {
+        "title": "Your Lie in April",
+        "author": "Naoshi Arakawa",
+        "price": 24.99,
+        "genre": "Drama",
+        "age_rating": "PG-13",
+        "release_date": 2014,
+        "summary": "Kousei Arima, a gifted pianist traumatized by the death of his mother, meets Kaori Miyazono, a free-spirited violinist who helps him rediscover his love for music. As Kousei overcomes his inner struggles, he forms a deep bond with Kaori, but a tragic secret threatens to tear them apart."
+    },
+    {
+        "title": "Haikyuu!!",
+        "author": "Haruichi Furudate",
+        "price": 39.99,
+        "genre": "Sports",
+        "age_rating": "PG-13",
+        "release_date": 2012,
+        "summary": "Shoyo Hinata, an enthusiastic volleyball player with a short stature, dreams of becoming the best despite his limitations. Alongside his teammates from Karasuno High School, Hinata faces fierce rivals on the court, honing his skills and forging lasting friendships as they strive for victory in competitive tournaments."
+    },
+    {
+        "title": "Clannad",
+        "author": "Key",
+        "price": 39.99,
+        "genre": "Slice of Life",
+        "age_rating": "PG-13",
+        "release_date": 2007,
+        "summary": "Tomoya Okazaki, a delinquent high school student disillusioned with life, encounters Nagisa Furukawa, a shy girl repeating a year due to illness. As Tomoya helps Nagisa pursue her dream of reviving the school's drama club, he forms deep connections with her and other classmates, confronting his troubled past and finding hope for the future."
+    },
+    {
+        "title": "Gintama",
+        "author": "Hideaki Sorachi",
+        "price": 49.99,
+        "genre": "Comedy",
+        "age_rating": "PG-13",
+        "release_date": 2006,
+        "summary": "Gintoki Sakata, a lazy samurai in an alternate Edo period where aliens have invaded Japan, runs the Odd Jobs agency with his eccentric friends. Together, they take on odd tasks to make ends meet, navigating a world filled with humor, action, and parody."
+    },
+    {
+        "title": "Toradora!",
+        "author": "Yuyuko Takemiya",
+        "price": 29.99,
+        "genre": "Romantic Comedy",
+        "age_rating": "PG-13",
+        "release_date": 2008,
+        "summary": "Ryuji Takasu, a kind-hearted high school student with a menacing appearance, forms an unlikely alliance with Taiga Aisaka, a small but fierce girl known as the \"Palmtop Tiger.\" As they assist each other in pursuing their crushes, Ryuji and Taiga develop a deep bond and discover the true meaning of love."
+    },
+    {
+        "title": "Mob Psycho 100",
+        "author": "ONE",
+        "price": 24.99,
+        "genre": "Supernatural",
+        "age_rating": "PG-13",
+        "release_date": 2016,
+        "summary": "Shigeo Kageyama, also known as \"Mob,\" is an ordinary middle school student with extraordinary psychic abilities. Despite his immense power, Mob seeks to live a normal life and control his emotions, but he's constantly thrust into bizarre situations involving spirits, psychic organizations, and his eccentric mentor, Arataka Reigen."
+    },
+    {
+        "title": "Anohana",
+        "author": "Mari Okada",
+        "price": 19.99,
+        "genre": "Drama",
+        "age_rating": "PG-13",
+        "release_date": 2011,
+        "summary": "Jinta Yadomi, a recluse haunted by guilt over the death of his childhood friend Menma, reunites with his former classmates to grant Menma's final wish. As they confront their unresolved feelings and memories, the group comes to terms with their past and finds closure amidst grief and longing."
+    },
+    {
+        "title": "Assassination Classroom",
+        "author": "Y\u016bsei Matsui",
+        "price": 34.99,
+        "genre": "Comedy",
+        "age_rating": "PG-13",
+        "release_date": 2012,
+        "summary": "The students of Class 3-E at Kunugigaoka Junior High School must assassinate their alien teacher, Koro-sensei, before he destroys the Earth. Despite their initial fear, the students form a unique bond with Koro-sensei as they learn valuable lessons about life, friendship, and the importance of education."
+    },
+    {
+        "title": "No Game No Life",
+        "author": "Yuu Kamiya",
+        "price": 24.99,
+        "genre": "Fantasy",
+        "age_rating": "PG-13",
+        "release_date": 2014,
+        "summary": "Sora and Shiro, a brother-sister duo known as \"Blank,\" are transported to a world where all conflicts are resolved through games. Using their unparalleled gaming skills, Sora and Shiro challenge the world's top gamers and aim to conquer the land of Disboard, seeking the ultimate title of \"One True God.\""
+    },
+    {
+        "title": "Promare",
+        "author": "Kazuki Nakashima",
+        "price": 29.99,
+        "genre": "Mecha",
+        "age_rating": "PG-13",
+        "release_date": 2019,
+        "summary": "Galo Thymos, a passionate firefighter, battles against the Burning Rescue team to extinguish fires caused by the mysterious Burnish people, who possess pyrokinetic abilities. Amidst the chaos, Galo encounters Lio Fotia, the leader of the Burnish, and uncovers the truth behind the conflict, leading to a confrontation that will determine the fate of the world."
+    },
+    {
+        "title": "Violet Evergarden",
+        "author": "Kana Akatsuki",
+        "price": 34.99,
+        "genre": "Drama",
+        "age_rating": "PG-13",
+        "release_date": 2018,
+        "summary": "Violet Evergarden, a former child soldier with no memories of her past, embarks on a journey to find the meaning of \"I love you,\" a phrase she heard from her beloved Major Gilbert before he disappeared. As Violet works as an Auto Memory Doll, writing letters for others, she discovers her own emotions and learns what it means to truly connect with others."
+    },
+    {
+        "title": "Kimetsu no Yaiba: Mugen Train",
+        "author": "Koyoharu Gotouge",
+        "price": 24.99,
+        "genre": "Action",
+        "age_rating": "R",
+        "release_date": 2020,
+        "summary": "Tanjiro Kamado, a demon slayer, along with his friends Inosuke Hashibira and Zenitsu Agatsuma, board the Mugen Train to investigate a series of disappearances. On the train, they encounter Enmu, a powerful demon, and engage in a life-and-death battle to protect innocent passengers and defeat the demon threatening their lives."
+    },
+    {
+        "title": "Re:Zero - Starting Life in Another World",
+        "author": "Tappei Nagatsuki",
+        "price": 39.99,
+        "genre": "Fantasy",
+        "age_rating": "PG-13",
+        "release_date": 2016,
+        "summary": "Subaru Natsuki, an ordinary high school student, is transported to a fantasy world where he discovers he has the ability to return to a specific point in time upon death. Determined to save his friends and uncover the mysteries of his new world, Subaru embarks on a journey filled with peril, betrayal, and self-discovery."
+    },
+    {
+        "title": "The Rising of the Shield Hero",
+        "author": "Aneko Yusagi",
+        "price": 29.99,
+        "genre": "Fantasy",
+        "age_rating": "PG-13",
+        "release_date": 2019,
+        "summary": "Naofumi Iwatani, a cynical otaku, is summoned to a parallel world as the Shield Hero along with three other heroes. Betrayed and falsely accused of a crime he didn't commit, Naofumi must overcome adversity and rise to become the legendary Shield Hero, defending the world against waves of monsters while seeking justice and redemption."
+    },
+    {
+        "title": "Made in Abyss",
+        "author": "Akihito Tsukushi",
+        "price": 24.99,
+        "genre": "Adventure",
+        "age_rating": "R",
+        "release_date": 2017,
+        "summary": "Riko, an orphaned girl living in the town of Orth, dreams of exploring the Abyss, a mysterious and deadly chasm filled with ancient relics and strange creatures. When Riko discovers a robot boy named Reg, who possesses powerful abilities, they embark on a perilous journey into the depths of the Abyss to uncover its secrets and find Riko's missing mother."
+    },
+    {
+        "title": "Jujutsu Kaisen",
+        "author": "Gege Akutami",
+        "price": 39.99,
+        "genre": "Supernatural",
+        "age_rating": "R",
+        "release_date": 2020,
+        "summary": "Yuji Itadori, a high school student with exceptional physical abilities, discovers a cursed object containing a powerful curse known as Ryomen Sukuna. In order to protect his friends and harness the curse's power for good, Yuji enrolls in a secret school for jujutsu sorcerers, where he learns to control cursed energy and battles against malevolent curses threatening humanity."
+    },
+    {
+        "title": "Great Teacher Onizuka",
+        "author": "Tooru Fujisawa",
+        "price": 39.99,
+        "genre": "Comedy",
+        "age_rating": "R",
+        "release_date": 1997,
+        "summary": "Eikichi Onizuka, a former gang member and motorcycle delinquent, becomes a high school teacher with the goal of winning the hearts of his students and finding love. Using his unorthodox methods and street smarts, Onizuka transforms the lives of his troubled students, teaching them valuable life lessons while facing off against corrupt educators and challenging societal norms."
+    },
+    {
+        "title": "Tokyo Revengers",
+        "author": "Ken Wakui",
+        "price": 24.99,
+        "genre": "Action",
+        "age_rating": "PG-13",
+        "release_date": 2021,
+        "summary": "Takemichi Hanagaki, a disheartened and unemployed young man, discovers he can time-travel to his past self as a middle schooler. Determined to save his ex-girlfriend Hinata Tachibana from a tragic fate and prevent the rise of a notorious gang, Takemichi embarks on a perilous journey filled with gang warfare, betrayal, and self-discovery."
+    },
+    {
+        "title": "Mushoku Tensei: Jobless Reincarnation",
+        "author": "Rifujin na Magonote",
+        "price": 39.99,
+        "genre": "Fantasy",
+        "age_rating": "R",
+        "release_date": 2021,
+        "summary": "After dying in a traffic accident, 34-year-old NEET (Not in Education, Employment, or Training) Rudeus Greyrat is reincarnated into a magical world as Rudeus Greyrat, retaining his memories and intellect. Determined to make the most of his second chance at life, Rudeus embarks on a journey of self-improvement, magic mastery, and adventure, navigating the challenges of his new world while uncovering his true potential."
+    },
+    {
+        "title": "The Case Study of Vanitas",
+        "author": "Jun Mochizuki",
+        "price": 39.99,
+        "genre": "Fantasy",
+        "age_rating": "PG-13",
+        "release_date": 2021,
+        "summary": "In a steampunk-inspired world where vampires exist, No\u00e9 Archiviste, a young vampire, encounters Vanitas, a human who possesses the Book of Vanitas, a powerful grimoire that can manipulate vampires' true names and cure them of their afflictions. As they embark on a journey to uncover the book's secrets and save vampirekind from a mysterious curse, they encounter allies and adversaries alike, delving into the depths of darkness and redemption."
+    },
+    {
+        "title": "Naruto",
+        "author": "Masashi Kishimoto",
+        "price": 29.99,
+        "genre": "Shonen",
+        "age_rating": "PG-13",
+        "release_date": 2002,
+        "summary": "Naruto Uzumaki, a spirited young ninja with dreams of becoming the strongest ninja and earning the title of Hokage, faces numerous challenges and adversaries as he trains and grows stronger alongside his friends in the village of Konoha."
+    },
+    {
+        "title": "Attack on Titan",
+        "author": "Hajime Isayama",
+        "price": 39.99,
+        "genre": "Action",
+        "age_rating": "R",
+        "release_date": 2013,
+        "summary": "Eren Yeager, Mikasa Ackerman, and Armin Arlert, members of the Survey Corps, battle against colossal humanoid creatures known as Titans while uncovering dark secrets about their world and their own identities."
+    },
+    {
+        "title": "Death Note",
+        "author": "Tsugumi Ohba",
+        "price": 24.99,
+        "genre": "Psychological thriller",
+        "age_rating": "R",
+        "release_date": 2003,
+        "summary": "Light Yagami, a brilliant high school student, obtains a supernatural notebook that allows him to kill anyone whose name he writes in it, leading him down a path of power and corruption as he tries to create a utopian world under his rule."
+    },
+    {
+        "title": "My Hero Academia",
+        "author": "Kohei Horikoshi",
+        "price": 25.99,
+        "genre": "Shonen",
+        "age_rating": "PG-13",
+        "release_date": 2014,
+        "summary": "Izuku Midoriya, a Quirkless boy born in a world where superpowers known as Quirks are common, inherits the Quirk of the greatest hero and attends U.A. High School to become a hero himself, facing challenges and making friends along the way."
+    },
+    {
+        "title": "Fullmetal Alchemist",
+        "author": "Hiromu Arakawa",
+        "price": 49.99,
+        "genre": "Fantasy",
+        "age_rating": "PG-13",
+        "release_date": 2001,
+        "summary": "Edward and Alphonse Elric, two brothers skilled in alchemy, embark on a journey to find the Philosopher's Stone to restore their bodies after a failed alchemical experiment, encountering allies and enemies in their quest."
+    },
+    {
+        "title": "Sword Art Online",
+        "author": "Reki Kawahara",
+        "price": 19.99,
+        "genre": "Adventure",
+        "age_rating": "PG-13",
+        "release_date": 2012,
+        "summary": "Kazuto Kirigaya, also known as Kirito, and Asuna Yuuki, players trapped in a virtual reality MMORPG, navigate through various virtual worlds and challenges while forming a deep bond and seeking a way to escape."
+    },
+    {
+        "title": "One Piece",
+        "author": "Eiichiro Oda",
+        "price": 59.99,
+        "genre": "Adventure",
+        "age_rating": "PG-13",
+        "release_date": 1997,
+        "summary": "Monkey D. Luffy, a young pirate captain with the ability to stretch his body like rubber, leads his crew, the Straw Hat Pirates, on a grand adventure across the seas in search of the legendary treasure known as One Piece."
+    },
+    {
+        "title": "Tokyo Ghoul",
+        "author": "Sui Ishida",
+        "price": 34.99,
+        "genre": "Horror",
+        "age_rating": "R",
+        "release_date": 2011,
+        "summary": "Ken Kaneki, a college student turned half-ghoul after a chance encounter with one, struggles to navigate the dangerous world of ghouls and humans while grappling with his newfound identity and hunger for human flesh."
+    },
+    {
+        "title": "Hunter x Hunter",
+        "author": "Yoshihiro Togashi",
+        "price": 44.99,
+        "genre": "Adventure",
+        "age_rating": "PG-13",
+        "release_date": 1998,
+        "summary": "Gon Freecss, a young boy, embarks on a journey to become a Hunter like his absentee father, meeting new friends and encountering dangerous creatures along the way in the pursuit of his goal."
+    },
+    {
+        "title": "One Punch Man",
+        "author": "ONE",
+        "price": 24.99,
+        "genre": "Comedy",
+        "age_rating": "PG-13",
+        "release_date": 2012,
+        "summary": "Saitama, a seemingly average hero with overwhelming strength, seeks a worthy opponent to challenge him as he battles various monsters and villains in a world filled with heroes and villains."
+    },
+    {
+        "title": "Fairy Tail",
+        "author": "Hiro Mashima",
+        "price": 39.99,
+        "genre": "Fantasy",
+        "age_rating": "PG-13",
+        "release_date": 2006,
+        "summary": "Natsu Dragneel, Lucy Heartfilia, and other members of the Fairy Tail guild go on magical adventures, form bonds of friendship, and battle against dark guilds and powerful foes in the fantastical land of Fiore."
+    },
+    {
+        "title": "Bleach",
+        "author": "Tite Kubo",
+        "price": 49.99,
+        "genre": "Action",
+        "age_rating": "PG-13",
+        "release_date": 2001,
+        "summary": "Ichigo Kurosaki, a teenager with the ability to see ghosts, becomes a Soul Reaper and battles evil spirits known as Hollows while protecting the living world and the afterlife."
+    },
+    {
+        "title": "JoJo's Bizarre Adventure",
+        "author": "Hirohiko Araki",
+        "price": 54.99,
+        "genre": "Action",
+        "age_rating": "R",
+        "release_date": 1987,
+        "summary": "Various members of the Joestar family, each with unique abilities called Stands, battle against supernatural threats and villainous foes across different generations and timelines in this bizarre and stylish adventure."
+    },
+    {
+        "title": "Black Clover",
+        "author": "Y\u016bki Tabata",
+        "price": 39.99,
+        "genre": "Fantasy",
+        "age_rating": "PG-13",
+        "release_date": 2015,
+        "summary": "Asta and Yuno, orphans with dreams of becoming the Wizard King, compete against each other and rise through the ranks of the Magic Knights in a world where magic is everything."
+    },
+    {
+        "title": "Code Geass",
+        "author": "Ichir\u014d \u014ckouchi",
+        "price": 39.99,
+        "genre": "Mecha",
+        "age_rating": "R",
+        "release_date": 2006,
+        "summary": "Lelouch Lamperouge, a exiled prince with a thirst for revenge, gains the power of Geass, which allows him to command others, and uses it to orchestrate a rebellion against the oppressive Britannian Empire. As Lelouch navigates the murky waters of politics and warfare, he grapples with the moral implications of his actions and the price of his quest for justice and liberation."
+    },
+    {
+        "title": "The Promised Neverland",
+        "author": "Kaiu Shirai",
+        "price": 19.99,
+        "genre": "Mystery",
+        "age_rating": "PG-13",
+        "release_date": 2016,
+        "summary": "Emma, Norman, and Ray, three orphans living in the idyllic Grace Field House, discover the dark truth behind their home and the sinister fate that awaits them. With their survival at stake, they hatch a daring plan to escape and uncover the mysteries of their world while evading the pursuit of their demonic caretakers."
+    }
+]
